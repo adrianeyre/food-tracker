@@ -16,7 +16,7 @@ $ git clone https://github.com/adrianeyre/food-tracker
 $ cd food-tracker
 ```
 * Go to the Apple AppStore to download and install Xcode
-* Load and run the application in xCode
+* Load and run the application in Xcode
 
 ## <a name="Shots">Screen Shots</a>
 ### Main Screen
