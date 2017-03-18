@@ -1,10 +1,10 @@
 # Food Tracker
 #### Technologies: Swift, Xcode
-### [Makers Academy] (http://www.makersacademy.com) - Week 10 Research
+### [Makers Academy](http://www.makersacademy.com) - Week 10 Research
 
 ## Index
-* [Usage] (#Usage)
-* [Screenshots] (#shots)
+* [Usage](#Usage)
+* [Screenshots](#shots)
 
 ## Challenege
 A simple mobile phone application that allows the user to create a food item, add an image and rate it out of 5 stars. The purpose of this project was to research how to create an Apple mobile phone application in Swift and Xcode.
